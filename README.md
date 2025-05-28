@@ -94,7 +94,7 @@ Jelaskan cara menjalankan protoype sistem machine learning yang telah dibuat.
 - Klik tombol "Prediksi Dropout" untuk melihat hasilnya, apakah mahasiswa tersebut ada kemungkinan akan dropout atau not dropout.
 
 Link untuk untuk mengakses prototype tersebut:
-https://dropout-prediction.streamlit.app/
+https://studentdropout-prediction.streamlit.app/
 
 ## Conclusions
 Jelaskan konklusi dari proyek yang dikerjakan.
