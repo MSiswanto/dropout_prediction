@@ -13,5 +13,3 @@ Navigasikan menu di sebelah kiri untuk:
 """)
 
 st.image("https://img.freepik.com/free-vector/flat-design-graduation-ceremony-illustration_23-2149269753.jpg", use_container_width=True)
-
-
