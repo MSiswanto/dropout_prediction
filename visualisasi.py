@@ -29,6 +29,7 @@ selected_features = [
     "Curricular units 1st sem (approved)",
     "Curricular units 2nd sem (approved)"
 ]
+
 importances = pd.Series(model.feature_importances_, index=selected_features).sort_values(ascending=False)
 top_features = importances.head(10)
 
